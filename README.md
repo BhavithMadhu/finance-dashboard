@@ -3,7 +3,7 @@
 A data analysis project that ingests bank/UPI transaction CSVs, cleans and analyzes spending patterns, detects anomalies, and renders a full suite of visualizations — including a polynomial regression forecast for next month's spend.
 
 Built with **Python · NumPy · Pandas · Matplotlib · Seaborn**
-
+ 
 ---
 
 ## 📊 Charts Generated
