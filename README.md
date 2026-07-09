@@ -7,7 +7,7 @@ Built with **Python · NumPy · Pandas · Matplotlib · Seaborn**
 ---
 
 ## 📊 Charts Generated
-
+    
 | Chart | What it shows |
 |-------|--------------|
 | Income vs Expenses | Monthly bar chart with savings trend overlay |
